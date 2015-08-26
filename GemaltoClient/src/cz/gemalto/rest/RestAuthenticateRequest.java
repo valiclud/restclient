@@ -18,7 +18,7 @@ import cz.gemalto.model.AuthenticationRequest;
 import cz.gemalto.rest.iface.RestAuthenticateRequestIface;
 
 /**
- * RestAuthenticateRequest class to process REST request
+ * RestAuthenticateRequest class to process REST request - synchronized singleton
  * 
  * @author Ludvik Valicek - August 14 2015
  *
