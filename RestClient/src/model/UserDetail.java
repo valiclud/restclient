@@ -21,6 +21,7 @@ import javax.xml.bind.annotation.XmlType;
 		"tokenList", "creationDate", "modifDate", "deviceRetries" })
 public class UserDetail {
 
+	
 	/** The user id. */
 	private String userID;
 	
