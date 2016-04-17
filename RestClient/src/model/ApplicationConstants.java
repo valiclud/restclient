@@ -27,5 +27,4 @@ public final class ApplicationConstants {
 
 	/** The url. */
 	public static String url = "http://idconf.cloudapp.net";
-
 }
