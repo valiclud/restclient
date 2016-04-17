@@ -20,7 +20,6 @@ import javax.xml.bind.annotation.XmlType;
 		"firstName", "lastName", "msisdn", "email", "password", "qaList",
 		"tokenList", "creationDate", "modifDate", "deviceRetries" })
 public class UserDetail {
-
 	
 	/** The user id. */
 	private String userID;
